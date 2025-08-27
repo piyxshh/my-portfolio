@@ -14,7 +14,7 @@ export default function Contact() {
         transition={{ duration: 0.5, delay: 0.2 }}
         className="text-gray-400 mb-8 max-w-xl mx-auto"
       >
-        I'm currently open to freelance opportunities and collaborations. Feel free to reach out!
+        I&apos;m currently open to freelance opportunities and collaborations. Feel free to reach out!
       </motion.p>
       <motion.a 
         initial={{ opacity: 0, y: 20 }}
